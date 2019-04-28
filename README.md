@@ -10,13 +10,14 @@ Please change the <YOUR_FIRST_NAME> and <YOUR_LAST_NAME> tags of this file accor
 * A minimalistic template is provided so that you can organize your ideas and put them into the appropriate functions.
 * Please **fill out the docstrings** (function args and return value type and description) after implementation.
 * Please **fill out the requirements.txt** if you are using any third party python libraries (Eg: numpy).
+* Please add **travis build status label** in markdown format at the top of the README.md. Follow the instructions https://docs.travis-ci.com/user/status-images/
 * Please add any extra functions if needed in the helper.py.
 * Do not clutter your code and try to be more Pythonic in coding.
 * Kindly use meaningful identifiers for variable/function/class names. Also add comments to help us easily evaluate your code.
 
 ## Deliverables
 * Please create a results folder and store the results of greedy search and A-star search in a manually created output.txt file.
-* The txt file should compulsarily contain **the initial board configuration and the final board configuration** and the **time taken** by the search algorithm. (Other details are optional)
+* The txt file should compulsarily contain **the initial board configuration and the final board configuration** and the **time taken** by the search algorithm and other details as mentioned in the pdf.
 * Answers to the theoretical questions must be uploaded in a **single pdf file** inside the results folder with naming conventions as in LEA (AI_04_LastName_FirstName.pdf)
 
 

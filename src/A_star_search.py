@@ -53,7 +53,7 @@ if __name__ == '__main__':
     print("Initial Configuration")
     board = Puzzle(puzzle_8)
     print_puzzle(puzzle_8)
-    opt = int(input("Press 1 for Manhattan Distance or 2 for Misplaced tiles:"))
+    opt = int(sys.argv[1])
 
     if opt == 1 or opt == 2:
 

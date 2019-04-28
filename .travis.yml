@@ -7,6 +7,8 @@ python:
 install:
   - pip install -r requirements.txt
 script:
-  - python src/A_star_search.py
-  - python src/Greedy_search.py
+  - python src/A_star_search.py 1  # Manhattan Dist heuristic
+  - python src/Greedy_search.py 1  # Misplaced Tiles heuristic
+  - python src/A_star_search.py 2  # Manhattan Dist heuristic
+  - python src/Greedy_search.py 2  # Misplaced Tiles heuristic
   
