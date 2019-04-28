@@ -9,8 +9,7 @@ Created on Sat May 19 19:12:09 2018
 import timeit
 from heapq import *
 
-from search_helper import (Puzzle, get_possible_moves, move_down, move_left,
-                           move_right, move_up, print_puzzle)
+from helper import *
 
 
 def Greedy_search(board, opt):

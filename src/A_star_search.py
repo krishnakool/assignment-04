@@ -10,9 +10,7 @@ import sys
 import timeit
 from heapq import *
 
-from search_helper import (Puzzle, get_possible_moves,
-                           manhattan_distance_heuristic,
-                           misplaced_tile_heuristic, print_puzzle)
+from helper import *
 
 
 def Astar_search(board, opt):
