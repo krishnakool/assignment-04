@@ -6,6 +6,7 @@ Created on Sat May 19 19:12:09 2018
 @author: iswariya
 """
 
+import sys
 import timeit
 from heapq import *
 
@@ -51,7 +52,7 @@ if __name__ == '__main__':
     print("Initial Configuration")
     board = Puzzle(puzzle_8)
     print_puzzle(puzzle_8)
-    opt = int(input("Press 1 for Manhattan Distance or 2 for Misplaced tiles:"))
+    opt = int(sys.argv[1])
 
     if opt == 1 or opt == 2:
 
