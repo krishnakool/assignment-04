@@ -67,6 +67,6 @@ if __name__ == '__main__':
         start_time = timeit.default_timer()
         Astar_search(board, opt)
         end_time = timeit.default_timer()
-        print(f'Time: {end_time-start_time}s')
+        print('Time: {}s'.format(end_time-start_time))
     else:
         print("Invalid Choice")
