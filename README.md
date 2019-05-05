@@ -17,7 +17,7 @@ Please change the <YOUR_FIRST_NAME> and <YOUR_LAST_NAME> tags of this file accor
 
 ## Deliverables
 * Please create a results folder and store the results of greedy search and A-star search in a manually created output.txt file.
-* The txt file should compulsarily contain **the initial board configuration and the final board configuration** and the **time taken** by the search algorithm. (Other details are optional)
+* The txt file should compulsarily contain **the initial board configuration and the final board configuration** and the **time taken** by the search algorithm and other details as mentioned in the pdf.
 * Answers to the theoretical questions must be uploaded in a **single pdf file** inside the results folder with naming conventions as in LEA (AI_04_LastName_FirstName.pdf)
 
 
