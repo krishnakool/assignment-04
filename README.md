@@ -20,6 +20,9 @@ Please change the <YOUR_FIRST_NAME> and <YOUR_LAST_NAME> tags of this file accor
 * The txt file should compulsarily contain **the initial board configuration and the final board configuration** and the **time taken** by the search algorithm and other details as mentioned in the pdf.
 * Answers to the theoretical questions must be uploaded in a **single pdf file** inside the results folder with naming conventions as in LEA (AI_04_LastName_FirstName.pdf)
 
+## Additional Details
+**Please add any details which we will need for running and test your code.**
+
 
 
 #### A Failure to adhere to the above instructions Will result in a loss of points.
