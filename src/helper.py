@@ -23,6 +23,8 @@ class Puzzle:
 
     def __init__(self, init_state):
         """Class Construction for initializing the board
+        NOTE: The 0 tile is the EMPTY tile that can be used
+        for swapping.
 
         Parameters
         ----------
