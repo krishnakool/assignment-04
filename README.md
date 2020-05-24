@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/hbrs-ai/assignment-04.svg?branch=master)](https://travis-ci.com/hbrs-ai/assignment-04)
-# <YOUR_FIRST_NAME><YOUR_LAST_NAME>
+# krishnateja Nallanukala
+i couldnt push my work into git due to some error saying permision denied, but i uploaded into LEA 
 
 # Assignment 4
 In this Assignment you will be implementing Greedy Search and A-star Search.
